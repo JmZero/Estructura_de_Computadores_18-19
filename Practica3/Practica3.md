@@ -15,7 +15,7 @@ Los resultados de la ejecucion estarán almacenados en el fichero [Resultados](h
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/tablas.png" title="tablas.png"> </p>
 Tambien se muestran una serie de graficas para denotar mas la variación en el tiempo de ejecucuión de las diferentes funciones:
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/graficas.png" title="graficas.png"> </p>
-Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/Practica 3 EC.pdf).
+Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/popcount.pdf).
 
 
 ### Diario de trabajo
