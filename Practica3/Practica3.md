@@ -23,7 +23,7 @@ Tambien se muestran una serie de graficas para denotar mas la variación en el t
 
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/graficas.png" title="graficas.png"> </p>
 
-Para verlo mejor pulse [Hug](http://www.hug.rest)
+Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/popcount.pdf).
 
 
 ### Diario de trabajo
