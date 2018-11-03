@@ -24,4 +24,4 @@ Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computado
 - Martes 30 Octubre: Realización Popcount 5-10.
 - Miércoles 31 Octubre: Solucionar dudas en clase y modificar los ejercicios ya realizados.
 - Jueves 1 Noviembre: Creacion de las tablas y el archivo excel correspondiente.
-- Viernes 2 Noviembre: Montaje del documento explicativo de la práctica.
+- Viernes 7 Noviembre: Montaje del documento explicativo de la práctica.
