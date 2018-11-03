@@ -8,13 +8,21 @@ Popcount es una función que nos devolverá la suma de bits que tiene una lista 
 
 Resultados:
 - En primer lugar comprobaremos que el resultado de los test de prueba es el correcto:
+
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/test.png" title="test.png"> </p>
+
 - Tras esto procederemos a ejecutar la bateria para calcular el tiempo de ejecución de cada función con la orden:
+
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/comando.png" title="comando.png"> </p>
+
 Los resultados de la ejecucion estarán almacenados en el fichero [Resultados](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/resultados.txt) , y se mostrarán en las siguientes tablas y gráficas donde podremos observar como los resultados se adecuan a lo mencionado en el guión de la práctica.
+
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/tablas.png" title="tablas.png"> </p>
+
 Tambien se muestran una serie de graficas para denotar mas la variación en el tiempo de ejecucuión de las diferentes funciones:
+
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/graficas.png" title="graficas.png"> </p>
+
 Para verlo mejor pulse [Hug](http://www.hug.rest)
 
 
