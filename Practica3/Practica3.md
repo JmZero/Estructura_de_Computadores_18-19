@@ -11,11 +11,11 @@ Resultados:
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/test.png" title="test.png"> </p>
 - Tras esto procederemos a ejecutar la bateria para calcular el tiempo de ejecución de cada función con la orden:
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/comando.png" title="comando.png"> </p>
-Los resultados de la ejecucion estarán almacenados en el fichero [Resultados](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/resultados.txt), y se mostrarán en las siguientes tablas y gráficas donde podremos observar como los resultados se adecuan a lo mencionado en el guión de la práctica.
+Los resultados de la ejecucion estarán almacenados en el fichero [Resultados](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/resultados.txt) , y se mostrarán en las siguientes tablas y gráficas donde podremos observar como los resultados se adecuan a lo mencionado en el guión de la práctica.
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/tablas.png" title="tablas.png"> </p>
 Tambien se muestran una serie de graficas para denotar mas la variación en el tiempo de ejecucuión de las diferentes funciones:
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/img/graficas.png" title="graficas.png"> </p>
-Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/popcount.pdf).
+Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica3/Codigo/popcount.pdf) .
 
 
 ### Diario de trabajo
@@ -24,4 +24,4 @@ Para verlo mejor pulse [aquí](https://github.com/JmZero/Estructura_de_Computado
 - Martes 30 Octubre: Realización Popcount 5-10.
 - Miércoles 31 Octubre: Solucionar dudas en clase y modificar los ejercicios ya realizados.
 - Jueves 1 Noviembre: Creacion de las tablas y el archivo excel correspondiente.
-- Viernes 7 Noviembre: Montaje del documento explicativo de la práctica.
+- Viernes 2 Noviembre: Montaje del documento explicativo de la práctica.
