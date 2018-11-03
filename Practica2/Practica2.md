@@ -69,6 +69,6 @@ Como ya se tiene creada la media en el ejercicio anterior para 32 bits, en este 
 - Semana 1-7 Octubre: Trabajar el tutorial de la práctica.
 - Lunes 8 Ocubre: Ejercicio 1.
 - Martes 9 Octubre: Ejercicio 2.
-- Miercoles 10 Octubre: Solucionar dudas en clase y modificar los ejercicios ya realizados.
+- Mércoles 10 Octubre: Solucionar dudas en clase y modificar los ejercicios ya realizados.
 - Jueves 11 Octubre: Ejercicios 3, 4.
-- Viernes 12 Octubre: Ejercio 5 (no funciona correctamente).
+- Viernes 12 Octubre: Ejercicio 5 (no funciona correctamente).
