@@ -6,6 +6,10 @@
 
 **Código:** 40230 --> (despues del cifrado) 31956
 
+**Contraseña Modificada:** bbbbaaaa --> (despues del cifrado) aaaabbbb
+
+**Código modificado:** 31956 --> (despues del cifrado) 21845
+
 ### Descubrir las claves
 Para poder averiguar la contraseña pondremos un break point en **< main+119 >** que es donde se realiza la comprobación de entre la contraseña real y la que se ha introducido.
 
