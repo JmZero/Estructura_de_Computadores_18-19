@@ -2,9 +2,9 @@
 
 ## Resolución de la bomba de Ana Maria Romero Delgado
 
-**Contraseña: ** ubdpadkk --> (despues del cifrado) tacobell
+**Contraseña:** ubdpadkk --> (despues del cifrado) tacobell
 
-**Código: ** 40230 --> (despues del cifrado) 31956
+**Código:** 40230 --> (despues del cifrado) 31956
 
 ### Descubrir las claves
 Para poder averiguar la contraseña pondremos un break point en **< main+119 >** que es donde se realiza la comprobación de entre la contraseña real y la que se ha introducido.
