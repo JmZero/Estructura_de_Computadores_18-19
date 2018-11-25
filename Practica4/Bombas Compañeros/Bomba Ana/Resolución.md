@@ -3,6 +3,7 @@
 ## Resolución de la bomba de Ana Maria Romero Delgado
 
 **Contraseña: ** ubdpadkk --> (despues del cifrado) tacobell
+
 **Código: ** 40230 --> (despues del cifrado) 31956
 
 ### Descubrir las claves
