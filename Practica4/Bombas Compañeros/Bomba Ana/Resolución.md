@@ -3,7 +3,7 @@
 ## Resolución de la bomba de Ana Maria Romero Delgado
 
 **Contraseña: ** ubdpadkk --> (despues del cifrado) tacobell
-**Código: ** 
+**Código: ** 40230 --> (despues del cifrado) 31956
 
 ### Descubrir las claves
 Para poder averiguar la contraseña pondremos un break point en **< main+119 >** que es donde se realiza la comprobación de entre la contraseña real y la que se ha introducido.
@@ -71,3 +71,19 @@ Todo esto lo averiguamos mirando el patron que sigue entre el código introducid
 
 En este caso, el código a introducir es **40230**
 
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/1.png" title="1.png"> </p>
+
+## Modificación de la bomba
+
+Para modificar la bomba se hará uso de **ghex**
+
+En el caso de la contraseña, iremos a la opción Edit > Find > escribiremos tacobell en el lado derecho y buscaremos.
+Ahora modificaremos **tacobell** por **aaaabbbb** en la derecha para que la contraseña a introducir pase a se **bbbbaaaa**.
+
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/2.png" title="2.png"> </p>
+
+En el caso del cógido, convertiremos el valor **30119** a hexadecimal, que es **75A7** e iremos a la opción Edit > Find > escribiremos **A775** en el lado izquierdo y buscaremos (esto de debe a que el número está en little endian).
+Ahora modificaremos **A775** por **5555** en la izquierda para que el código a introducir pase a ser **31956**.
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/3.png" title="3.png"> </p>
+
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/4.png" title="4.png"> </p>
