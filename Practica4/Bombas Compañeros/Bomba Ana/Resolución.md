@@ -92,7 +92,3 @@ Ahora modificaremos **A775** por **5555** en la izquierda para que el código a 
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/3.png" title="3.png"> </p>
 
 <p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica4/Bombas%20Compa%C3%B1eros/Bomba%20Ana/img/4.png" title="4.png"> </p>
-<<<<<<< HEAD
-=======
-
->>>>>>> aa85271a5eff42a40ba726d72b9259b16374d8f8
