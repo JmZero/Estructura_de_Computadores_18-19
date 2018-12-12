@@ -32,8 +32,8 @@ En el arduino lo conectaremos como se representa en el dibujo.
 
 EL resultado tras montarlo será el siguiente (es el mismo montaje para el ejercicio posterior):
 
-<p align="center"> <img align="left" src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-1.jpeg" title="theremin-1.jpeg" width="450" height="300">
-<img align="right" src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-2.jpeg" title="theremin-2.jpeg" width="350" height="300"> </p>
+<p align="center"> <img align="left" src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-1.jpeg" title="theremin-1.jpeg" width="425" height="300">
+<img align="right" src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-2.jpeg" title="theremin-2.jpeg" width="425" height="300"> </p>
 
 Podemos ver el ejemplos del funcionamiento del programa a continuación (este esta integrado junto con el montaje del apartado anterior)
 
