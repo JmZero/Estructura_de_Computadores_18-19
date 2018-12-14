@@ -13,11 +13,11 @@ Para llevar a cabo el zumbador, se hará uso del siguiente código:
 [Código](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/Zumbador_pasivo/passive_buzzer.ino)
 
 Las conexiones del arduino las realizaremos como se representa en el dibujo.
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_zumbador.png" title="esquema_zumbador.png" width="750" height="500"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_zumbador.png" title="esquema_zumbador.png" width="750" height="600"> </p>
 
 EL resultado tras montarlo será el siguiente:
 
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/zumbador.jpeg" title="zumbador.jpeg" width="750" height="500"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/zumbador.jpeg" title="zumbador.jpeg" width="750" height="600"> </p>
 
 Podemos ver 2 ejemplos del funcionamiento del programa, el primero será con el código por defecto que nos prorporciona el arduino, el segundo será haciendo uso del código anteriormente enlazado.
 
@@ -30,7 +30,7 @@ Para llevar a cabo el theremín, se hará uso del siguiente código:
 [Código](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/Theremin/theremin.ino)
 
 Las conexiones del arduino las realizaremos como se representa en el dibujo.
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin.png" title="test.png" width="750" height="500"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin.png" title="test.png" width="750" height="600"> </p>
 
 EL resultado tras montarlo será el siguiente (es el mismo montaje para el ejercicio posterior):
 
@@ -47,11 +47,11 @@ Para llevar a cabo el theremí, se hará uso del siguiente código:
 [Código](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/Photocell/Photocell.ino)
 
 En el arduino lo conectaremos como se representa en el dibujo.
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin-uz.png" title="test.png" width="750" height="500"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin-uz.png" title="test.png" width="750" height="600"> </p>
 
 EL resultado tras montarlo será el siguiente (es el mismo montaje para el ejercicio anterior):
 
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-luz.jpeg" title="theremin-luz.jpeg"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/theremin-luz.jpeg" title="theremin-luz.jpeg" width="750" height="600"> </p>
 
 Podemos ver el ejemplo del funcionamiento del programa a continuación (este esta integrado junto con el montaje del apartado anterior)
 
