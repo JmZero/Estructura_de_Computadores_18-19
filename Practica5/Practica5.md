@@ -47,7 +47,7 @@ Para llevar a cabo el theremí, se hará uso del siguiente código:
 [Código](https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/Photocell/Photocell.ino)
 
 En el arduino lo conectaremos como se representa en el dibujo.
-<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin-uz.png" title="test.png" width="750" height="600"> </p>
+<p align="center"> <img src="https://github.com/JmZero/Estructura_de_Computadores_18-19/blob/master/Practica5/img/esquema_theremin-luz.png" title="esquema_theremin-luz.png" width="750" height="600"> </p>
 
 EL resultado tras montarlo será el siguiente (es el mismo montaje para el ejercicio anterior):
 
